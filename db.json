@@ -1,0 +1,39 @@
+{
+  "gasPrices": [
+    {
+      "stationBrand": "Gulf",
+      "stationAddress": "294 Cloud Ave, Chino CA",
+      "gasPrice": "5.07",
+      "date": "2023-10-19",
+      "id": 1
+    },
+    {
+      "stationBrand": "ARCO",
+      "stationAddress": "9004 Pacific St, Torrance CA",
+      "gasPrice": "5.04",
+      "date": "2023-10-20",
+      "id": 2
+    },
+    {
+      "stationBrand": "Costco",
+      "stationAddress": "374 Apple Ave, Los Angeles CA",
+      "gasPrice": "4.99",
+      "date": "2023-10-21",
+      "id": 3
+    },
+    {
+      "stationBrand": "Shell",
+      "stationAddress": "123 Main St, El Segundo CA",
+      "gasPrice": "5.03",
+      "date": "2023-10-22",
+      "id": 4
+    },
+    {
+      "stationBrand": "Chevron",
+      "stationAddress": "9304 Peers Blvd, Lomita CA",
+      "gasPrice": "5.09",
+      "date": "2023-10-21",
+      "id": 5
+    }
+  ]
+}
